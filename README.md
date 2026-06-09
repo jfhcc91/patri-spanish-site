@@ -3,6 +3,8 @@
 A personal website built from scratch using HTML and CSS as a hands-on 
 introduction to front-end web development.
 
+🔗 **Live site:** https://jfhcc91.github.io/patri-spanish-site/
+
 ## What it does
 
 - A single-page website with a custom layout and styling
@@ -14,14 +16,15 @@ introduction to front-end web development.
 - Structuring web pages with semantic HTML
 - Styling layouts and elements with CSS
 - Linking stylesheets and images to an HTML file
-- Understanding the basics of front-end web development
+- Deploying a static website using GitHub Pages
 
 ## Built with
 
 - HTML5
 - CSS3
+- GitHub Pages (hosting)
 
 ## Status
 
-Completed as a learning project. Future improvements may include 
-responsiveness for mobile screens and JavaScript interactivity.
+Live and hosted on GitHub Pages. Future improvements may include 
+responsiveness for mobile screens and Java
